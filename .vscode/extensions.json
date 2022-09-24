@@ -5,7 +5,6 @@
         "vadimcn.vscode-lldb",
         "bungcip.better-toml",
         "formulahendry.code-runner",
-        "serayuzgur.crates",
-        "usernamehw.errorlens"
+        "serayuzgur.crates"
     ]
 }
