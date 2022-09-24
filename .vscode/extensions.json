@@ -6,6 +6,7 @@
         "bungcip.better-toml",
         "serayuzgur.crates",
         "github.vscode-pull-request-github",
-        "ms-vsliveshare.vsliveshare"
+        "ms-vsliveshare.vsliveshare",
+        "usernamehw.errorlens"
     ]
 }
