@@ -1,5 +1,5 @@
 # rusty-umbrella
-
+A 24 hour challange, writing a project with a new lanauage to see what happens.
 ## Setup
 * Install rust 				-> https://www.rust-lang.org/tools/install
 * Install vscode 			-> https://code.visualstudio.com/download
