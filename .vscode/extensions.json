@@ -4,7 +4,8 @@
         "eamodio.gitlens",
         "vadimcn.vscode-lldb",
         "bungcip.better-toml",
-        "formulahendry.code-runner",
-        "serayuzgur.crates"
+        "serayuzgur.crates",
+        "github.vscode-pull-request-github",
+        "ms-vsliveshare.vsliveshare"
     ]
 }

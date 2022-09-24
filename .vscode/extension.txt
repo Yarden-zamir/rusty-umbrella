@@ -1,7 +1,0 @@
-rust-lang.rust-analyzer
-eamodio.gitlens
-vadimcn.vscode-lldb
-bungcip.better-toml
-formulahendry.code-runner
-serayuzgur.crates
-usernamehw.errorlens
