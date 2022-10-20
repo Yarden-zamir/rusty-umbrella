@@ -1,0 +1,9 @@
+name: Potato
+on: push
+
+jobs:
+  print_stuff:
+    runs-on: ubuntu-latest
+    steps:
+    - run: echo "potatoes are nice"
+
